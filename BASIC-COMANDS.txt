@@ -3,3 +3,6 @@ git add . ou git -A
 
 - Para add no github
 git commit -m "adicionar comentário"
+
+- Para enviar o conteúdo do repositório local para um repositório remoto
+git push
