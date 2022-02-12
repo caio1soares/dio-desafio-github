@@ -1,4 +1,4 @@
-# dio-desafio-github
+# Sistema de cadastro de livros em Java
 Desafio de projeto sobre Git e Github
 
 ###Links úteis
